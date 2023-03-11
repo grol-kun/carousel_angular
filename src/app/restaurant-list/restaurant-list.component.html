@@ -1,0 +1,8 @@
+<div class="restaurant-list" #list>
+  <div *ngFor="let restaurant of restaurants">
+    <app-restaurant [restaurant]="restaurant"></app-restaurant>
+  </div>
+</div>
+
+<button (click)="scroll(-1)">Previous</button>
+<button (click)="scroll(1)">Next</button>

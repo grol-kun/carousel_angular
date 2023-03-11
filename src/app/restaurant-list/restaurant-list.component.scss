@@ -1,0 +1,10 @@
+.restaurant-list {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch; /* Optional: Enable smooth scrolling on iOS */
+}
+
+.app-restaurant {
+  scroll-snap-align: center;
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Лямус",
+    "image": "https://carte.by/source/photos/2015/11/30/liamus_p.jpg",
+    "url": "https://liamus.vitebsk.biz",
+    "map": {
+      "address": "Витебск, пр-т Победы, 1",
+      "lat": 55.17651670305746,
+      "title": "Лямус",
+      "url": "//liamus.vitebsk.biz/",
+      "lng": 30.226542949676517,
+      "zoom": 18
+    },
+    "work_time": "12:00 − 16:00",
+    "dishes": [
+      { "name": "Салат-коктейль «Свежесть»", "price": null },
+      { "name": "Рассольник «Ленинградский» с мясом и сметаной", "price": null },
+      { "name": "Блинчики с мясным фаршем»", "price": null }
+    ],
+    "total": 14.5
+  },
+  {
+    "name": "Ностальгия",
+    "image": "https://carte.by/source/photos/2020/03/11/c9fbfc8f431eab848379ad1b8b70b571_p.jpg",
+    "url": "https://nostalgia.vitebsk.biz",
+    "map": {
+      "address": "Витебск, пр-т Московский, 86",
+      "lat": 55.176347,
+      "title": "Ностальгия",
+      "url": "//nostalgia.vitebsk.biz/",
+      "lng": 30.247731,
+      "zoom": 14
+    },
+    "work_time": "12:00 − 16:00",
+    "dishes": [
+      { "name": "Крем-суп из грибов", "price": null },
+      { "name": "Голубцы «Ленивые»", "price": null },
+      { "name": "Салат «Острый»", "price": null }
+    ],
+    "total": 8.95
+  },
+  {
+    "name": "Город",
+    "image": "https://carte.by/source/photos/2017/03/22/gorod_p.jpg",
+    "url": "https://gorod.vitebsk.biz",
+    "map": {
+      "address": "Витебск, ул. Смоленская, 3/1",
+      "lat": 55.1805462454359,
+      "title": "Город",
+      "url": "//gorod.vitebsk.biz/",
+      "lng": 30.230523347854614,
+      "zoom": 14
+    },
+    "work_time": "12:00 − 16:00",
+    "dishes": [
+      { "name": "Сельдь с картофелем", "price": 2.5 },
+      { "name": "Затирка с молоком", "price": 1.2 },
+      { "name": "Блинчики с яблоками с топпингом", "price": 2.5 }
+    ],
+    "total": 6.20
+  },
+  {
+    "name": "Матрёшки",
+    "image": "https://carte.by/source/photos/2022/09/20/943f2b0aa171125a8fa14703ebe05ac9_p.jpg",
+    "url": "https://matreshki.vitebsk.biz",
+    "map": null,
+    "work_time": null,
+    "dishes": [
+      { "name": "Салат «Олимп»", "price": 3 },
+      { "name": "Суп дня", "price": 4 },
+      { "name": "Поджарка из цыплёнка с грибами и гречневой кашей", "price": 7 }
+    ],
+    "total": 14
+  }
+]
